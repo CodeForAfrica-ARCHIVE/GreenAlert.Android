@@ -1,5 +1,6 @@
 package com.codeforafrica.greenalert;
 
+import com.codeforafrica.greenalert.fragments.TitlesFragment;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GooglePlayServicesClient;
 import com.google.android.gms.common.GooglePlayServicesUtil;
@@ -30,7 +31,6 @@ public class MainActivity extends FragmentActivity implements
 	LocationClient mLocationClient;
 
 	ConnectionResult connectionResult;
-    
     
 
 	@Override
