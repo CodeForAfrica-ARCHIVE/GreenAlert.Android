@@ -2,7 +2,6 @@ package com.codeforafrica.greenalert.fragments;
 
 import com.codeforafrica.greenalert.HomeActivity;
 import com.codeforafrica.greenalert.R;
-import com.codeforafrica.greenalert.HomeActivity.PlaceholderFragment;
 
 import android.app.Activity;
 import android.os.Bundle;
