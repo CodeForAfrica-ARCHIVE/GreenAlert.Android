@@ -6,9 +6,12 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_home">HomeActivity</string>
-    <string name="title_section1">Home</string>
-    <string name="title_section2">Near Me</string>
-    <string name="title_section3">Settings</string>
+
+    <string name="nav_title_home">Home</string>
+    <string name="nav_title_settings">Settings</string>
+    <string name="nav_title_near">Near Me</string>
+    <string name="nav_title_my_alerts">My Alerts</string>
+
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
